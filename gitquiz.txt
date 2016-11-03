@@ -1,0 +1,11 @@
+Open terminal and then clone with: git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+Edit file in the repository by typing: cd your-github-repository-name
+Then to add a file with: git add filename
+Then type in gedit filename
+A new window will open, then start editing
+After finish editing to save the file click ctrl + s 
+Then close the editing window 
+Go back to the terminal and type in git commit -m "Commit message"
+Then type in git push click enter
+They will ask for your username and password for your github account (when you type the passowrd it won't show)
+Go to github.com and refresh you repository page to check if the file is there.
