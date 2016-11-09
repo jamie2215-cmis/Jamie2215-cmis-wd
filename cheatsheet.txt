@@ -5,3 +5,10 @@ cd ..: Go up
 cat <file name>: View the contents of a file
 gedit <file name> &
 python -m SimpleHTTPServer - Start the development server
+git clone --config="http.proxy=http://jamie2215:chocolate@192.168.2.1:8080" https://github.com/jamie2215-cmis/Jamie2215-cmis-wd.git
+git add <file name>
+git commit -m "Commit Comment"
+git push
+	gedit new file name edit git add/ commit/ push 
+	template.html 
+
