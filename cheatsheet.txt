@@ -11,4 +11,8 @@ git commit -m "Commit Comment"
 git push
 	gedit new file name edit git add/ commit/ push 
 	template.html 
+stfp jamie2215@cmis-hsteacher then yes to the question
+then password (github password)
+cd public_html/
+put file-name
 
