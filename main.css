@@ -1,3 +1,21 @@
+html {
+	background-color:snow;
+	color:Teal; 
+	background: linear-gradient(to bottom, #0892d0 50%, #808080 50%);
+}
+h1 {
+	background-color:honeydew;
+	color:SteelBlue;
+	font-family:'Lucida Console', Monaco, monospace;
+	text-align: center;
+	font-size:50px;
+} 
+h2 {
+	background-color:lavender;
+	text-align: center;
+	font-size:25px;
+	font-style:italic;
+}
 p {
-	color:purple;
+	
 }
