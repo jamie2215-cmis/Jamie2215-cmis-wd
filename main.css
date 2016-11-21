@@ -1,28 +1,33 @@
-html {
-	background-color:snow;
-	color:Teal; 
-	background: linear-gradient(to bottom, #ccffff 50%, #99ccff 50%);
+html { 
 	text-align: center;
-	border:
+	border-left:10px dotted MistyRose;
+	border-right:10px dotted MistyRose;
+	border-bottom:20px dotted MistyRose;
+	background: repeating-linear-gradient(45deg,#ffffff,#ccffff 7%,#ffcccc 10%);
 }
 h1 {
 	background-color:snow;
 	color:#ffcc99;
 	font-family:'Lucida Console', Monaco, monospace;
 	text-align: center;
-	font-size:59px;
+	font-size:30px;
 } 
 h2 {
 	background-color:#99ccff;
 	text-align: center;
-	font-size:29px;
+	font-size:25px;
 	font-style:italic;
-	color:#ffffff;
-	border-bottom: 6px solid white;
+	color:#ffcccc;
+	border-bottom: 6px solid Ivory;
 	margin-top: 10px;
     margin-bottom: 10px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background: radial-gradient(#ccccff,#ffffff 90%,#ffffcc 100%);
 }
 p {
 	border-top-style: dotted;
@@ -31,15 +36,14 @@ p {
 	border-left-style: solid;
 	border-color:#99ccff;
 	background-color:#ffffff;
-	font-size:19px;
+	font-size:15px;
 	color:#ffcc99;
-	padding-top: 10px;
-	padding-right: 10px;
+	padding-top: 50px;
+	padding-right: 50px;
 	padding-bottom: 50px;
 	padding-left: 50px;
 	line-height: 20px;
     height: 20px;
     text-align: center;
 	font-family:"Comic Sans MS", cursive, sans-serif;
-	
 }
