@@ -1,3 +1,26 @@
+/*list of Properties; 
+text-align
+border
+background
+color
+font-family
+font-size
+font-style
+margin
+padding
+text-decoration
+text-transform
+text-shadow
+border-style 
+outline
+outline-color
+border-color
+line-height
+height
+transform
+column-gap
+cursor*/
+
 html { 
 	text-align: center;
 	border-left:10px dotted MistyRose;
@@ -54,4 +77,8 @@ p {
 	transform:skewX(10deg);
 	column-gap: 40px;
 	font-family:"Comic Sans MS", cursive, sans-serif; 
+	cursor: crosshair;
 }
+
+
+
