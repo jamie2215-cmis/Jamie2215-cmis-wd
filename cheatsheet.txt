@@ -19,5 +19,6 @@ then password (github password)
 cd public_html/
 put file-name
 
+http://cmis-hsteacher/~(name)/(filename)
 
 
