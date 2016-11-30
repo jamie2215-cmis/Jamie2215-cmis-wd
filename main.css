@@ -43,9 +43,9 @@ Go learn something from 2 classmates; add a comment to your main.css file that d
 
 html { 
 	text-align: center;
-	border-left:10px dotted MistyRose;
-	border-right:10px dotted MistyRose;
-	border-bottom:20px dotted MistyRose; 
+	border-left:10mm dotted MistyRose;
+	border-right:10mm dotted MistyRose;
+	border-bottom:20mm dotted MistyRose; 
 	background:linear-gradient(45deg,#ffffff,#ccffff 30%,#ffcccc 90%);
 }
 h1 {
@@ -58,7 +58,7 @@ h1 {
 h2 {
 	background-color:#99ccff;
 	text-align: center;
-	font-size:25px;
+	font-size:25pt;
 	font-style:italic;
 	color:#ffcccc;
 	border-bottom: 6px solid Ivory;
@@ -116,10 +116,10 @@ footer {
 	padding-bottom: 50px;
 	padding-left: 50px;
 	line-height: 20px;
-    height: 20px;
+    height: 20cm;
     text-align: left;
 	transform:skewX(10deg);
-	column-gap: 40px;
+	column-gap: 10cm;
 	font-family:"Comic Sans MS", cursive, sans-serif; 
 	cursor: crosshair;
 }
