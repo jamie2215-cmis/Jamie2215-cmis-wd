@@ -99,6 +99,29 @@ p {
 	font-family:"Comic Sans MS", cursive, sans-serif; 
 	cursor: crosshair;
 }
-
+footer {
+	border-top-style: dotted;
+	border-right-style: solid;
+	border-bottom-style: dotted;
+	border-left-style: solid;
+	border:5px dotted;
+	outline:10px solid;
+	outline-color: lightyellow;
+	border-color:#99ccff;
+	background-color:#ffffff;
+	font-size:15px;
+	color:#ffcc99;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	line-height: 20px;
+    height: 20px;
+    text-align: left;
+	transform:skewX(10deg);
+	column-gap: 40px;
+	font-family:"Comic Sans MS", cursive, sans-serif; 
+	cursor: crosshair;
+}
 
 
