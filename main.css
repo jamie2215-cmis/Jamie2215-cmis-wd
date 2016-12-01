@@ -118,10 +118,10 @@ footer {
 	line-height: 20px;
     height: 20cm;
     text-align: left;
-	transform:skewX(10deg);
 	column-gap: 10cm;
 	font-family:"Comic Sans MS", cursive, sans-serif; 
 	cursor: crosshair;
+	background-image: url("paper.gif");
 }
 
 
