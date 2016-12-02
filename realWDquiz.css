@@ -1,0 +1,48 @@
+html {
+	background:red;
+    	margin-right: 5cm;
+    	margin-left: 5cm;
+	margin-bottom:5cm;
+}
+h1 {
+	font-family:Arial;
+	color:yellow;
+	text-transform:bold;
+	font-style:bold;
+}
+header p {
+	color:white;
+	font-family:Arial;
+}
+header {
+	background:blue;
+}
+nav {
+	text-decoration:line-through;
+}
+main {
+	background: white;
+}
+ol li {
+	border:dotted black;
+	margin-right:1cm;
+}
+main ul {
+	text-decoration:line-through;
+}
+main p {
+	text-decoration:underline;
+	margin-left:50px;
+}
+main h2 {
+    	margin-right: 50px;
+   	 margin-left: 50px;
+	font-family:Arial;
+}
+footer {
+	background:blue;
+	color:white;
+	font-family:Arial;
+}
+
+
