@@ -1,0 +1,51 @@
+html {
+	background: AliceBlue;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	border-top:solid 1cm;
+	border-bottom:solid 1cm;
+	border-left:dotted 1cm;
+	border-right:dotted 1cm;
+}
+article { 
+	background: linear-gradient(180deg,#F1F3F7,#CFD4E2 7%,#A2ADC6 10%);
+	margin-right: 5cm;
+    	margin-left: 5cm;
+	margin-bottom:2cm;
+	
+}
+header, nav {
+	margin-right: 5cm;
+    	margin-left: 5cm;
+	background: none;
+	color: skyblue;
+}
+
+heade p { 
+	color:skyblue;;
+}
+h2 {
+
+	
+}
+footer {
+	background: linear-gradient(180deg,#F1F3F7,#CFD4E2 7%,#A2ADC6 10%);
+	margin-right: 5cm;
+    	margin-left: 5cm;
+	margin-bottom:5cm;
+	border-top:solid 10px;
+	border-bottom:solid 10px;
+	border-left:dotted 10px;
+	border-right:dotted 10px;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+	color:white;
+}
+article ul {
+	color:white;
+}
+
