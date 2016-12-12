@@ -1,0 +1,76 @@
+html {
+	background-image: url(https://image.freepik.com/free-vector/abstract-blue-background_1048-1511.jpg);
+	padding-top : 50px;
+	padding-right : 50px;
+	padding-bottom : 50px;
+	padding-left : 50px;
+	border-left : 1cm dotted;
+	border-right : 1cm dotted;
+	font-family:georgia;
+}
+article {
+	background : linear-gradient(180deg, #F1F3F7, #CFD4E2 35%, #A2ADC6 50%);
+	margin-right : 5cm;
+	margin-left : 5cm;
+	margin-bottom : 2cm;
+	border-top: solid gray;
+	border-bottom: solid gray;
+}
+header, nav {
+	margin-right : 5cm;
+	margin-left : 5cm;
+	background : none;
+	color : white;
+}
+header p {
+	color :white;
+	font-size: 25px;  
+	text-align: center;
+}
+footer {
+	background : linear-gradient(180deg, #F1F3F7, #CFD4E2 7%, #A2ADC6 10%);
+	margin-right : 5cm;
+	margin-left : 5cm;
+	margin-bottom : 5cm;
+	border-top : 10px solid;
+	border-bottom : 10px solid;
+	border-left : 10px dotted;
+	border-right : 10px dotted;
+	padding-top : 50px;
+	padding-right : 50px;
+	padding-bottom : 50px;
+	padding-left : 50px;
+	color : white;
+}
+ul {
+	color : white;
+}
+article p{
+	color: white;
+}
+h2 {
+	color: orange;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+main p {
+	font-size: 20px;
+}
+h1 {
+	font-size: 40px; 
+}
+main {
+	background: skyblue;
+	border-left: grey;
+	border-right: grey;
+}
+li {
+	border-bottom:dotted skyblue;
+}
+header, main p {
+	text-align: center
+}
+nav {
+	background:white;
+}
+
