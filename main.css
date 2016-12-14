@@ -41,87 +41,125 @@ Go learn something from 2 classmates; add a comment to your main.css file that d
 *Upload to the production server with sftp.
 *View your index.html in the production server.*/
 
-html { 
-	text-align: center;
-	border-left:10mm dotted MistyRose;
-	border-right:10mm dotted MistyRose;
-	border-bottom:20mm dotted MistyRose; 
-	background:linear-gradient(45deg,#ffffff,#ccffff 30%,#ffcccc 90%);
+html {
+	text-align : center;
+	border-left : 10mm dotted mistyrose;
+	border-right : 10mm dotted mistyrose;
+	border-bottom : 20mm dotted mistyrose;
+	background: linear-gradient(45deg, #ffffff, #ccffff 30%, #ffcccc 90%);
 }
 h1 {
-	background-color:snow;
-	color:#ffcc99;
-	font-family:'Lucida Console', Monaco, monospace;
-	text-align: center;
-	font-size:30px;
-} 
+	background : snow;
+	padding-top : 10px;
+	padding-right : 10px;
+	padding-bottom : 10px;
+	padding-left : 10px;
+	color : #ffcc99;
+	font-family : 'Lucida Console', Monaco, monospace;
+	text-align : center;
+	font-size : 30px;
+}
 h2 {
-	background-color:#99ccff;
-	text-align: center;
-	font-size:25pt;
-	font-style:italic;
-	color:#ffcccc;
-	border-bottom: 6px solid Ivory;
-	margin-top: 10px;
-   	margin-bottom: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
-	padding-top: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-	text-decoration:underline;
-	text-transform:uppercase;
-	text-shadow: 2px 2px 5px AliceBlue;
-	background: radial-gradient(#ccccff,#ffffff 90%,#ffffcc 100%);
+	background-color : #99ccff;
+	text-align : center;
+	font-size : 25pt;
+	font-style : italic;
+	color : #ffcccc;
+	border-bottom : 6px solid ivory;
+	margin-top : 10px;
+	margin-bottom : 10px;
+	margin-right : 10px;
+	margin-left : 10px;
+	text-decoration : underline;
+	text-transform : uppercase;
+	text-shadow : 2px 2px 5px aliceblue;
+	background : radial-gradient(#ccccff, #ffffff 90%, #ffffcc 100%);
 }
 p {
-	border-top-style: dotted;
-	border-right-style: solid;
-	border-bottom-style: dotted;
-	border-left-style: solid;
-	border:5px dotted;
-	outline:10px solid;
-	outline-color: lightyellow;
-	border-color:#99ccff;
-	background-color:#ffffff;
-	font-size:15px;
-	color:#ffcc99;
-	padding-top: 50px;
-	padding-right: 50px;
-	padding-bottom: 50px;
-	padding-left: 50px;
-	line-height: 20px;
-    height: 20px;
-    text-align: left;
-	transform:skewX(10deg);
-	column-gap: 40px;
-	font-family:"Comic Sans MS", cursive, sans-serif; 
-	cursor: crosshair;
+	border-top-style : dotted;
+	border-right-style : solid;
+	border-bottom-style : dotted;
+	border-left-style : solid;
+	border : dotted 5px;
+	outline : 10px solid;
+	outline-color : lightyellow;
+	border-color : #99ccff;
+	background-color : #ffffff;
+	font-size : 15px;
+	color : #ffcc99;
+	padding-top : 50px;
+	padding-right : 50px;
+	padding-bottom : 50px;
+	padding-left : 50px;
+	line-height : 20px;
+	height : 20px;
+	text-align : left;
+	column-gap : 40px;
+	font-family : "Comic Sans MS", cursive, sans-serif;
 }
 footer {
-	border-top-style: dotted;
-	border-right-style: solid;
-	border-bottom-style: dotted;
-	border-left-style: solid;
-	border:5px dotted;
-	outline:10px solid;
-	outline-color: lightyellow;
-	border-color:#99ccff;
-	background-color:#ffffff;
-	font-size:15px;
-	color:#ffcc99;
-	padding-top: 50px;
-	padding-right: 50px;
-	padding-bottom: 50px;
-	padding-left: 50px;
-	line-height: 20px;
-    height: 20cm;
-    text-align: left;
-	column-gap: 10cm;
-	font-family:"Comic Sans MS", cursive, sans-serif; 
-	cursor: crosshair;
-	background-image: url("paper.gif");
+	border-top-style : dotted;
+	border-right-style : solid;
+	border-bottom-style : dotted;
+	border-left-style : solid;
+	border : dotted 5px;
+	outline : 10px solid;
+	outline-color : lightyellow;
+	border-color : #99ccff;
+	font-size : 15px;
+	color : #ffcc99;
+	padding-top : 50px;
+	padding-right : 50px;
+	padding-bottom : 50px;
+	padding-left : 50px;
+	line-height : 20px;
+	height : 5cm;
+	text-align : left;
+	column-gap : 10cm;
+	font-family : "Comic Sans MS", cursive, sans-serif;
+	height : 5cm;
+	width : 36.75cm;
+	background-image: url(https://66.media.tumblr.com/9d9c3f7815d67942ed5f88bbcb17aeea/tumblr_nolsv5NCyv1sqg61ho1_500.gif) 
 }
-
-
+ol, ul {
+	border : dotted 5px;
+	border-color : #99ccff;
+	font-size : 15px;
+	color : #ffcc99;
+	padding-top : 50px;
+	padding-right : 50px;
+	padding-bottom : 50px;
+	padding-left : 50px;
+	line-height : 20px;
+	text-align : left;
+	font-size: 15px;
+}
+nav ul {
+	border-right:  dotted lightblue;
+	border-left: dotted lightpink;
+	border-top:  dotted lightblue;
+	border-bottom: dotted lightpink;
+	text-align : left;
+	width: 2.5cm;
+	height: 0.3cm;
+	transform : skewX(-5deg);
+	background-image: url(http://vignette2.wikia.nocookie.net/blackrockshooter/images/5/50/Pink.png/revision/latest?cb=20130722194027)
+}
+main ul, ol {
+	background-color : #ffffff;
+	font-size : 15px;
+	color : #ffcc99;
+}
+h3 {
+	text-align: left;
+	text-decoration: underline;
+	color: #ffcc99;
+	background-color:#ffffff;
+	border-color : #99ccff;
+	border-right:  dotted lightblue;
+	border-left: dotted lightpink;
+	border-top:  dotted lightblue;
+	border-bottom: dotted lightpink;
+}
+body, a:hover {cursor: url(http://cur.cursors-4u.net/special/spe-1/spe24.cur), progress !important;}
+main, a:hover {cursor: url(http://cur.cursors-4u.net/special/spe-1/spe23.cur), progress !important;}
